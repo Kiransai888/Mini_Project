@@ -1,0 +1,8 @@
+flask
+flask-cors
+torch
+ultralytics
+werkzeug
+Pillow
+numpy
+gunicorn
